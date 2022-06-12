@@ -4,4 +4,4 @@ Simple Split Bill Application, implementing Material 3 design, Dark and Light Th
 
 |      Dynamic Color + Light Theme     |        Dynamic Color + Dark Theme         |
 | :----------------------------------: | :---------------------------------------: |
-| ![](Dynamic-Color-Light-Theme.png) | !      ![](Dynamic-Color-Dark-Theme.png)    |
+| ![](Dynamic-Color-Light-Theme.png)   |      ![](Dynamic-Color-Dark-Theme.png)    |
